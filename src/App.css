@@ -1,0 +1,42 @@
+.Header-div {
+  font-family: 'Times New Roman', Times, serif;
+  border: 4px solid black;
+  background-image: url("https://thumbs.dreamstime.com/b/wood-texture-background-useful-header-graphics-decent-backgrounds-such-as-newsletters-websites-brochures-77276211.jpg");
+  line-height: 40px;
+  padding: 1px;
+  text-align: center;
+}
+.Home-div{
+  text-align: left;
+  border: 4px solid darkolivegreen;
+  background-image: linear-gradient(lightgrey, grey);
+}
+.footer{
+  font-weight: bold;
+  text-align: center;
+}
+h1{
+  font-family: Arial, Helvetica, sans-serif;
+  color: darkblue;
+  text-align: center;
+}
+table{
+  margin: auto;
+  border: 4px solid darkolivegreen;
+  background-image: url("https://coolbackgrounds.io/images/backgrounds/index/ranger-4df6c1b6.png");
+  text-align: center;
+  margin-bottom: 5px;
+}
+td{
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.About-div{
+  border: 4px solid darkolivegreen;
+  margin-top: 10px;
+  background-image: url("https://www.teahub.io/photos/full/13-133175_decent-wallpapers.png");
+  text-align: left;
+}
+.Locate-div{
+  font-size: 20px;
+}
